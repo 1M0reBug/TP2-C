@@ -1,0 +1,1 @@
+void saisie(char chaine[]);
